@@ -1,0 +1,9 @@
+{
+  "name": "script_example",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "license": "MIT",
+  "dependencies": {
+    "hardhat": "^2.14.0"
+  }
+}
